@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.9.5
+Built-By: orkhan-hasanli
+Build-Jdk: 17.0.4
+Implementation-Title: plugin
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.example
+Plugin-Class: com.example.plugin.TestPlugin
+Plugin-Dependencies: 
+Plugin-Id: example-plugin
+Plugin-Provider: author
+Plugin-Version: 1.0.0
+
